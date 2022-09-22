@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- AI/ML Engineer
 - You can find me via telegram @soulmatecats
 
 
